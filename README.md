@@ -19,7 +19,7 @@ LocalNetHealth is a Windows network observation tool for local and trusted LAN u
 
 ## Download
 
-Download the installer from [GitHub Releases](https://github.com/moR3y/LocalNetHealth/releases). The installer is published as a Release asset, not as a normal repository file. Before publication, the planned asset name is `LocalNetHealth-1.0.0.exe`.
+Download the installer from [GitHub Releases](https://github.com/moR3y/LocalNetHealth/releases). The installer is published as a Release asset, not as a normal repository file. The v1.0.0 installer asset is `LocalNetHealth-1.0.0.exe`.
 
 Verify the installer with [SHA256SUMS.txt](SHA256SUMS.txt) and the checksum in the [release notes](RELEASE_NOTES_v1.0.0.md).
 
